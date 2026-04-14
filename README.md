@@ -105,6 +105,3 @@ Based on the end-to-end exploratory data analysis, the following data-driven str
 2. Ensure you have the required libraries installed (`pip install pandas numpy matplotlib seaborn`).
 3. Update the `drive_path` or local path to point to the datasets.
 4. Run the Jupyter Notebook `EDA on Atliq Grands.ipynb` sequentially to reproduce the analysis and visualizations.
-
----
-*Developed by [Your Name/GitHub Handle]. Specialized in Data Science and the Hospitality Sector.*
